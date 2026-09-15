@@ -1,28 +1,33 @@
-# Hi, I'm Yifan Xie
+# Auroraxie
 
-IoT undergraduate at Nanjing University of Information Science & Technology, currently focusing on AI application development, Agent workflows, and MCP.
+IoT undergraduate focusing on AI application development, Agent workflows and MCP.
 
-## Featured Projects
+`AI Applications` · `Agent Workflows` · `MCP` · `IoT`
+
+## Projects
 
 ### HarmoAgri
 
-A team-built OpenHarmony + ESP32 smart agriculture system.
+OpenHarmony + ESP32 smart agriculture system.
 
-- My contribution: ESP32 hardware and device communication.
-- Local HTTP / WebSocket communication between the device and app.
-- Sensor data collection and relay control.
-- Team project awarded National Second Prize in the ChinaSourcing Innovation & Entrepreneurship Competition.
+- Hardware & communication module (my contribution)
+- HTTP / WebSocket device communication
+- Multi-sensor acquisition and relay control
+- Team project: National Second Prize, ChinaSourcing Innovation & Entrepreneurship Competition
 
-[View project](https://github.com/AuroraShie/iot-smartfarming-harmony)
+[View repository](https://github.com/AuroraShie/iot-smartfarming-harmony)
 
 ### MCP Human-in-the-loop Workflow
 
-Coming soon. Exploring a stateful MCP workflow for controlled Agent execution:
+Stateful MCP workflow for controlled Agent execution.
 
-- Human-in-the-loop confirmation
+- Persistent workflow state
 - Stage gating
-- Separation of candidate and confirmed results
+- Human-in-the-loop
+- Candidate / Confirmed result separation
 
-## Interests
+Repository coming soon.
 
-AI Applications · Agent Workflows · MCP · IoT · Software Engineering
+## Contact
+
+Email: x3250086362@163.com
