@@ -18,16 +18,16 @@ OpenHarmony + ESP32 智慧农业系统。
 
 [View repository](https://github.com/AuroraShie/iot-smartfarming-harmony)
 
-### MCP Human-in-the-loop Workflow
+### Human-in-the-loop MCP Security Workflow
 
-基于 MCP 的有状态 Agent 工作流实践。
+面向授权 Web/API 安全分析的 Human-in-the-loop MCP Agent Workflow。
 
-- Persistent workflow state
-- Stage gating
-- Human-in-the-loop
-- Candidate / Confirmed result separation
+- Persistent MCP session state and multi-stage workflow
+- Stage gating and deterministic workflow constraints
+- Human-controlled validation and tool-use boundaries
+- Candidate / Confirmed result separation and stop conditions
 
-Repository coming soon.
+[View repository](https://github.com/AuroraShie/human-in-the-loop-mcp-security-workflow)
 
 ## About / 关于
 
